@@ -10,6 +10,7 @@ Project of the book [Python Programming Blueprints](https://www.packtpub.com/map
 ## Install
 
 pip install -r requirements.txt
+
 pip install -r requirements_dev.txt
 
 It requeres PhantomJS; you can download it from: http://phantomjs.org/download.html
